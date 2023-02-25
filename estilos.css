@@ -1,0 +1,14 @@
+body{
+    background:url(Foto.gif) no-repeat;
+    background-size:800px 600px
+}
+.texto{
+    color: #0a21ee;
+    border:solid ;
+    margin:0 auto ;
+    width:300px ;
+    padding:2em ;
+    background: #ffffffb0;
+    width:50% ;
+    font-family:"arial" ;
+}
